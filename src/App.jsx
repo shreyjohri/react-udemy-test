@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <h1>Let's learn React and Javascript</h1>
-      <p>Now we've deployed this app</p>
+      <p>Now we've deployed this app on Vercel and it's running</p>
     </>
   )
 }
